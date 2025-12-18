@@ -1,0 +1,200 @@
+{
+  "Header": {
+    "title": "TOTAL eBIZ LLC",
+    "paragraph": "Your Trusted Partner for Cutting-Edge Electronic Data Interchange (EDI), SAP and Artificial Intelligence (AI) Consulting and Staffing Solutions."
+  },
+  "About": {
+    "paragraph": "Welcome to TOTAL eBIZ LLC, a trusted partner in providing specialized IBM Sterling B2B products installation, configuration, support, and training. With our extensive experience and dedication to delivering tailored solutions, we help clients streamline their electronic data interchange (EDI) and artificial intelligence (AI) operations and optimize their business processes. TOTAL eBIZ LLC, is also a trusted recruitment partner for technology top-tier staffing solutions. With a focus on delivering exceptional talent and comprehensive services, we help our clients meet their business objectives and overcome their talent challenges.",
+    "Why": [
+      "EDI Consulting",
+      "Technical Staffing Solutions",
+      "Expertise in EDI",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Trusted recruitment partner",
+      "Exercitation ullamco",
+      "B2B products installation"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "EDI Consulting",
+      "text": "Bespoke IBM Sterling B2B Products Installation and Configuration, Electronic Data Interchange (EDI) Integration Services, Enterprise Application Integration (EAI)"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Staffing Solutions",
+      "text": "Talent Acquisition Partnership, Permanent Recruitment, Contract and Contingent Staffing, Executive Search, Recruitment Process Outsourcing (RPO), Global Recruitment and Mobility"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Support",
+      "text": "EDI Integration Services Support, AI Automation Solutions, Service Level Agreement (SLA), Onsite or Remote Help Desk Support"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"The team understood our hiring needs perfectly and delivered top-quality candidates quickly. Highly professional service!.\"",
+      "name": "David Thomas"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"We’ve been able to build a stronger workforce thanks to their dedicated recruitment support. Reliable and efficient.\"",
+      "name": "Rahul Mehta"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"We were impressed by the personalized approach and constant communication throughout the hiring process. Highly recommended.\"",
+      "name": "Krish Nadh"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Quick turnaround, professional service, and excellent candidates – they’ve become our go-to recruitment agency.\"",
+      "name": "Sofia Khan"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"The recruitment team quickly understood our requirements and provided candidates who were the perfect fit. Their process saved us both time and effort.\"",
+      "name": "Amit Verma"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Excellent experience! They made the hiring process smooth and stress-free from start to finish.\"",
+      "name": "Ananya Sharma"
+    }
+  ],
+  "Team": [
+       {
+      "img": "img/team/06.png",
+      "name": " David Dhanjal",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/05.png",
+      "name": "Paul Dhanjal",
+      "job": "HR and Business Partner"
+    },
+ 
+    {
+      "img": "img/team/03.jpg",
+      "name": "Anna Maria",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Sugarland, Texas, USA",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Consultancy",
+      "text": "In the realm of technology consulting, TOTAL eBIZ LLC excels in providing Managed Services and Outsourcing solutions."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Recruitment",
+      "text": "Talent Acquisition Partnership, permanent recruitment, contract and contingent staffing, executive search, recruitment processing outsourcing (RPO), and global recruitment and mobility.."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Support",
+      "text": "With a strong emphasis on service quality and performance, we deliver exceptional support through service level agreement (SLA) and support options.."
+    }
+  ],
+  "jobData": [
+    {
+      "title": "Frontend Developer",
+      "department": "Engineering",
+      "location": "Bangalore, India",
+      "description": "Build interactive and scalable UIs with React.",
+      "applyLink": "/apply/frontend-developer"
+    },
+    {
+      "title": "HR Executive",
+      "department": "Human Resources",
+      "location": "Hyderabad, India",
+      "description": "Manage hiring, onboarding, and employee relations.",
+      "applyLink": "/apply/hr-executive"
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "department": "Marketing",
+      "location": "Remote",
+      "description": "Plan and execute online marketing campaigns.",
+      "applyLink": "/apply/digital-marketer"
+    },
+  {
+    "title": "Backend Developer",
+    "department": "Engineering",
+    "location": "Pune, India",
+    "description": "Work on APIs, databases, and server-side logic."
+  },
+  {
+    "title": "UI/UX Designer",
+    "department": "Design",
+    "location": "Remote",
+    "description": "Design intuitive and visually appealing interfaces."
+  }
+  ]
+}

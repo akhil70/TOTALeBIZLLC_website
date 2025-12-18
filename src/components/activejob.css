@@ -1,0 +1,31 @@
+
+.custom-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #6372ff, #6372ff); 
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-arrow:hover {
+  transform: translateY(-50%) scale(1.15) rotate(5deg);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+
+.next-arrow {
+  right: -25px;
+}
+
+.prev-arrow {
+  left: -25px;
+}
+
