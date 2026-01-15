@@ -71,7 +71,7 @@ export const Navigation = (props) => {
             <li>
               <a
                 className="page-scroll"
-                onClick={() => window.location.href = "http://localhost:3000"}
+                onClick={() => window.location.href = "https://totalebiz.net/"}
                 style={{ cursor: "pointer" }}
               >
                 Login
