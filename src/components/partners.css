@@ -1,0 +1,120 @@
+.partners-container {
+    padding: 80px 0;
+    background: linear-gradient(135deg, #f9f9f9 0%, #ffffff 100%);
+    overflow: hidden;
+}
+
+.partners-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.partners-title h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+    position: relative;
+    display: inline-block;
+}
+
+.partners-title h2::after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background: #5ca9fb;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.partner-logo-wrapper {
+    padding: 20px;
+    outline: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.partner-logo-wrapper:nth-child(1) {
+    animation-delay: 0.1s;
+}
+
+.partner-logo-wrapper:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.partner-logo-wrapper:nth-child(3) {
+    animation-delay: 0.3s;
+}
+
+.partner-logo-wrapper:nth-child(4) {
+    animation-delay: 0.4s;
+}
+
+.partner-logo-wrapper:nth-child(5) {
+    animation-delay: 0.5s;
+}
+
+.partner-logo-card {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.partner-logo-card:hover {
+    transform: translateY(-10px) scale(1.05);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    background: #fff;
+    border-color: #5ca9fb;
+}
+
+.partner-logo-card img {
+    max-width: 75%;
+    max-height: 75%;
+    object-fit: contain;
+    /* filter: grayscale(100%) contrast(0.8); */
+    /* opacity: 0.7; */
+    transition: all 0.4s ease;
+}
+
+.partner-logo-card:hover img {
+    filter: grayscale(0%) contrast(1);
+    opacity: 1;
+}
+
+/* Slick adjustments */
+.slick-track {
+    display: flex !important;
+    align-items: center;
+}
+
+.slick-slide {
+    height: inherit !important;
+}
+
+@media (max-width: 768px) {
+    .partner-logo-card {
+        width: 120px;
+        height: 120px;
+    }
+}
