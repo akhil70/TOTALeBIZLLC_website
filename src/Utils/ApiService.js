@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Base API URL
-const API_BASE_URL = " https://loan-finder-identification-fred.trycloudflare.com/api";
+const API_BASE_URL = "https://api.totalebiz.net/api";
 
 // Create axios instance
 const api = axios.create({
