@@ -6,16 +6,18 @@
   "About": {
     "paragraph": "Welcome to TOTAL eBIZ LLC, a trusted partner in providing specialized IBM Sterling B2B products installation, configuration, support, and training. With our extensive experience and dedication to delivering tailored solutions, we help clients streamline their electronic data interchange (EDI) and artificial intelligence (AI) operations and optimize their business processes. TOTAL eBIZ LLC, is also a trusted recruitment partner for technology top-tier staffing solutions. With a focus on delivering exceptional talent and comprehensive services, we help our clients meet their business objectives and overcome their talent challenges.",
     "Why": [
+      "IBM Sterling B2B Integrator",
       "EDI Consulting",
-      "Technical Staffing Solutions",
+      "Technical Staffing Solutions EDI",
       "Expertise in EDI",
-      "Incididunt ut labore"
+      "IBM Sterling Secure Proxy"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
+      "IBM Sterling External Authentication Server",
       "Trusted recruitment partner",
-      "Exercitation ullamco",
-      "B2B products installation"
+      "IBM Control Center",
+      "B2B products installation",
+      "Oracle, msSQL and Azure Training"
     ]
   },
   "Gallery": [
