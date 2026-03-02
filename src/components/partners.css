@@ -1,7 +1,11 @@
 .partners-container {
     padding: 80px 0;
-    background: linear-gradient(135deg, #f9f9f9 0%, #ffffff 100%);
+    background: url("../img/service-bg.png") center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     overflow: hidden;
+    width: 100%;
+    position: relative;
 }
 
 .partners-title {
@@ -113,6 +117,12 @@
 }
 
 @media (max-width: 768px) {
+    .partners-container {
+        padding: 60px 0;
+        background-attachment: scroll;
+        background-position: center center;
+    }
+
     .partner-logo-card {
         width: 120px;
         height: 120px;
