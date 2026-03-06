@@ -1,0 +1,87 @@
+{
+  "greeting": "How can I help?",
+  "placeholder": "Ask about our company, services, or careers...",
+  "fallbackAnswer": "I couldn't find specific information about that. Try asking about our Services, Careers, Contact, or About us. Or visit the relevant section on our website.",
+  "topicButtons": [
+    "Services",
+    "Careers",
+    "Contact",
+    "About",
+    "EDI & AI Expertise",
+    "Testimonials",
+    "Partners",
+    "Our Team",
+    "Why Choose Us",
+    "Login"
+  ],
+  "responses": [
+    {
+      "keywords": ["hi", "hello", "hey", "hi there", "hello there", "howdy", "greetings", "good morning", "good afternoon", "good evening", "sup", "what's up", "how are you", "hey there"],
+      "answer": "Hello! Welcome to TOTAL eBIZ LLC. How can I help you today? You can ask about our Services, Careers, Contact, or click any topic above to get started."
+    },
+    {
+      "keywords": ["thanks", "thank you", "thx", "thankyou"],
+      "answer": "You're welcome! Is there anything else I can help you with?"
+    },
+    {
+      "keywords": ["bye", "goodbye", "see you", "good night"],
+      "answer": "Thank you for visiting! Feel free to reach out anytime. Have a great day!"
+    },
+    {
+      "keywords": ["help", "need help", "can you help"],
+      "answer": "Of course! I'm here to help. You can ask about our Services, Careers, Contact, About us, or any of the topics above. What would you like to know?"
+    },
+    {
+      "keywords": ["about", "company", "who we are", "introduction", "totalebiz", "total ebiz"],
+      "answer": "Welcome to TOTAL eBIZ LLC. We provide specialized IBM Sterling B2B products installation, configuration, support, and training. We help clients streamline EDI and AI operations. We are also a trusted recruitment partner for technology top-tier staffing solutions."
+    },
+    {
+      "keywords": ["services", "what we offer", "what do you do"],
+      "answer": "At TOTAL eBIZ LLC, we offer: 1) EDI Consulting - IBM Sterling B2B installation, EDI Integration, EAI. 2) Staffing Solutions - Talent Acquisition, Permanent/Contract Recruitment, RPO, Executive Search. 3) Support - EDI Support, AI Automation, SLA, Onsite or Remote Help Desk."
+    },
+    {
+      "keywords": ["edi consulting", "ibm sterling", "installation", "configuration", "eai"],
+      "answer": "Bespoke IBM Sterling B2B Products Installation and Configuration, Electronic Data Interchange (EDI) Integration Services, Enterprise Application Integration (EAI)."
+    },
+    {
+      "keywords": ["staffing", "recruitment", "hiring", "talent", "rpo", "executive search"],
+      "answer": "Talent Acquisition Partnership, Permanent Recruitment, Contract and Contingent Staffing, Executive Search, Recruitment Process Outsourcing (RPO), Global Recruitment and Mobility."
+    },
+    {
+      "keywords": ["support", "help desk", "sla", "ai automation"],
+      "answer": "EDI Integration Services Support, AI Automation Solutions, Service Level Agreement (SLA), Onsite or Remote Help Desk Support."
+    },
+    {
+      "keywords": ["jobs", "careers", "openings", "hiring", "apply", "vacancies", "positions"],
+      "answer": "We have active job openings! Visit our Active Job Openings section on this page to see current positions. You can apply directly through the Apply Now button on each job card."
+    },
+    {
+      "keywords": ["contact", "email", "phone", "address", "get in touch", "location"],
+      "answer": "Contact us at: Address - Sugarland, Texas, USA | Phone - +1 123 456 1234 | Email - info@company.com. Fill out the form in our Contact section to send us a message."
+    },
+    {
+      "keywords": ["edi", "ai", "sap", "ibm sterling", "b2b", "consulting", "integration"],
+      "answer": "TOTAL eBIZ LLC is your trusted partner for cutting-edge Electronic Data Interchange (EDI), SAP and Artificial Intelligence (AI) Consulting. We specialize in IBM Sterling B2B, EDI integration, and comprehensive support services."
+    },
+    {
+      "keywords": ["testimonials", "reviews", "clients", "feedback"],
+      "answer": "Our clients have shared positive feedback. David Thomas, Rahul Mehta, Krish Nadh, Sofia Khan, Amit Verma, and Ananya Sharma have all praised our recruitment support and professional service. Visit the Testimonials section to read their full reviews."
+    },
+    {
+      "keywords": ["partners", "our partners"],
+      "answer": "We work with multiple trusted partners. Visit the Partners section to see our partner logos."
+    },
+    {
+      "keywords": ["login", "portal", "totalebiz.net"],
+      "answer": "You can log in at https://totalebiz.net/"
+    },
+    {
+      "keywords": ["team", "ceo", "david dhanjal", "paul dhanjal", "our team"],
+      "answer": "Our team includes David Dhanjal (CEO), Paul Dhanjal (HR and Business Partner), Anna Maria (Senior Designer), and Karen Doe (Project Manager)."
+    },
+    {
+      "keywords": ["why choose us", "why us", "expertise", "capabilities", "strengths"],
+      "answer": "Why Choose Us: IBM Sterling B2B Integrator, EDI Consulting, Technical Staffing Solutions EDI, Expertise in EDI, IBM Sterling Secure Proxy, LLM training and deployment, IBM Sterling External Authentication Server, Trusted recruitment partner, IBM Control Center, B2B products installation, Oracle/msSQL/Azure Training, AI agent development and deployment."
+    }
+  ]
+}

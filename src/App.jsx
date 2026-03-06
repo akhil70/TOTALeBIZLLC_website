@@ -12,6 +12,7 @@ import { Partners } from "./components/partners";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import { ActiveJobs } from "./components/ActiveJobs";
+import Chatbot from "./components/Chatbot";
 import "./App.css";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -39,6 +40,7 @@ const App = () => {
       {/* <Team data={landingPageData.Team} /> */}
       <Partners />
       <Contact data={landingPageData.Contact} />
+      <Chatbot />
     </div>
   );
 };
